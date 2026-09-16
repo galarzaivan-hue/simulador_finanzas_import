@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Financiero para Inversionistas",
+  "description": "Simulador financiero integral para evaluar la Tasa Efectiva Mensual Real (TEM), el costo bancario y la degradación por demoras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
